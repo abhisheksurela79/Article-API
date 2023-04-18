@@ -6,7 +6,7 @@ This API allows you to create, read, update, and delete articles.
 
 ## Base URL
 
-The base URL for this API is http://localhost:8000/
+The base URL for this API is [http://localhost:8000/](https://web-production-5865.up.railway.app/)
 
 
 
